@@ -772,7 +772,7 @@
     <section class="image-square left bg-secondary">
         <div class="col-md-6 image">
             <div class="background-image-holder">
-                <img alt="image" class="background-image" src="img/fitness6.jpg" />
+                <img alt="image" class="background-image" src="https://image.shutterstock.com/z/stock-photo-ip-telephone-and-network-switch-port-gigabit-and-blur-network-administrator-in-data-center-room-791110261.jpg" />
             </div>
         </div>
         <div class="col-md-6 col-md-offset-1 content overflow-hidden">
@@ -810,25 +810,60 @@
     <section class="image-square left bg-secondary">
         <div class="col-md-6 image">
             <div class="background-image-holder">
-                <img alt="image" class="background-image" src="img/fitness6.jpg" />
+                <img alt="image" class="background-image" src="https://image.shutterstock.com/z/stock-photo-electrician-builder-at-work-examines-the-cable-connection-in-the-electrical-line-in-the-fuselage-1779434408.jpg" />
             </div>
         </div>
         <div class="col-md-6 col-md-offset-1 content overflow-hidden">
             <div class="text-white">
-                <h2 class="uppercase bold italic mb-1">電話工事</h2>
+                <h2 class="uppercase bold italic mb-1">電気工事</h2>
                 <h4>電話工事.</h4>
-                <p>お客様の通信頻度に合わせた通信キャリアとサービスの選定から始まり、 気になるIP電話回線についての導入シミュレーションまで、 電話工事に関することなら一括サポート可能です。</p>
+                <p>オフィスインフラ構築時の最重要点は生命線としての電気配線です。容量オーバーによりブレーカーが落ちたり、機器の不具合から漏電したりと原因は様々です。重要なデータの消失を防ぐために、最適な電気環境を構築致します。</p>
 
                 <h6 class="uppercase mb8">PBX・ビジネスホン新規導入</h6>
                 <h6 class="uppercase mb8">IP電話機の新規導入・ご相談</h6>
                 <h6 class="uppercase mb8">電話機の増設・移設のご相談</h6>
                 <a class="btn btn-lg  mt32 mb0" href="#">詳しくみる</a>
-
             </div>
-
         </div>
     </section>
 
+
+    <section class="bg-dark">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <h3 class="uppercase">
+                        Creating Vibrant
+                        <br> Spaces &amp; Communites
+                    </h3>
+                </div>
+            </div>
+            <!--end of row-->
+            <div class="row mb80 mb-xs-24">
+                <div class="col-md-6 col-md-offset-3 col-sm-10 col-sm-offset-1 text-center">
+                    <p>
+                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia.
+                    </p>
+                </div>
+            </div>
+            <!--end of row-->
+            <div class="row">
+                <div class="col-sm-5 col-sm-offset-1 text-center">
+                    <div class="feature boxed">
+                        <h1 class="large">64</h1>
+                        <h5 class="uppercase">Award Winning Projects</h5>
+                    </div>
+                </div>
+                <div class="col-sm-5 text-center">
+                    <div class="feature boxed">
+                        <h1 class="large">#3</h1>
+                        <h5 class="uppercase">Architects Australia</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--end of container-->
+    </section>
     <section>
         <div class="container">
             <div class="row mb80 mb-xs-40">
