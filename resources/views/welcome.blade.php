@@ -659,19 +659,80 @@
 </div>
 <div id="app" class="main-container">
 
+{{--    <section class="cover fullscreen parallax image-bg">--}}
+{{--        <div class="background-image-holder">--}}
+{{--            <img alt="image" class="background-image" src="img/cover/cover001.jpg" />--}}
+{{--        </div>--}}
+{{--        <div class="container v-align-transform">--}}
+{{--            <div class="row">--}}
+{{--                <div class="col-sm-12 text-center">--}}
+{{--                    <h1 class="mb0 uppercase bold italic">SANRITSU  </h1>--}}
+{{--                    <h5 class="uppercase mb32">素早く、正確に、安全に。高品質な通信工事を提供する 三立通信工業。</h5>--}}
+{{--                    <p class="lead mb0">--}}
+{{--                        &ldquo;Everyone deserves good health and happiness.--}}
+{{--                        <br class="hidden-sm" />My goal is to help people achieve both.&rdquo;--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <!--end of row-->--}}
+{{--        </div>--}}
+
+{{--    </section>--}}
+
     <section class="image-bg overlay pt240 pb240 pt-xs-180 pb-xs-180">
         <div class="background-image-holder">
-            <img alt="image" class="background-image" src="img/fitness3.jpg" />
+            <img alt="image" class="background-image imge" src="img/cover/cover005.jpg" />
         </div>
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <h1 class="mb0 uppercase bold italic    ">CALIFORNIA HAWAII PROMOTIONS</h1>
-                    <h5 class="uppercase mb32">Personal Training & Dietary Advice</h5>
-                    <p class="lead mb0">
-                        &ldquo;Everyone deserves good health and happiness.
-                        <br class="hidden-sm" />My goal is to help people achieve both.&rdquo;
-                    </p>
+                    <h2 class="mb0 uppercase bold italic text-center">オフィスの工事なら</h2>
+                    <h1 class="mb0 uppercase bold italic text-center">三立通信工業</h1>
+                    <h5 class="uppercase mb32 text-center">Personal Training & Dietary Advice</h5>
+                    <p class="lead mb0 text-center">&ldquo;Everyone deserves good health and happiness.<br class="hidden-sm" />My goal is to help people achieve both.&rdquo;</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-white">
+        <div class="container">
+            <div class="row mb64 mb-xs-24">
+                <div class="col-sm-12 col-md-10 col-md-offset-1 text-center">
+                    <h2>サンリツが選ばれる理由.</h2>
+                </div>
+            </div>
+            <!--end of row-->
+            <div class="row">
+                <div class="col-sm-4 text-center">
+                    <div class="feature">
+                        <div class="text-center">
+                            <i class="ti-heart icon-lg mb40 mb-xs-24 inline-block color-primary"></i>
+                            <h5 class="uppercase">全国で3,000社の<br>施工実績</h5>
+                        </div>
+                        <p class="text-left">首都圏をはじめ、全国各地での実績がございます。北海道から沖縄まで、出張し施工させて頂きます</p>
+                    </div>
+                    <!--end of feature-->
+                </div>
+                <div class="col-sm-4 text-center">
+                    <div class="feature">
+                        <div class="text-center">
+                            <i class="ti-heart icon-lg mb40 mb-xs-24 inline-block color-primary"></i>
+                            <h5 class="uppercase">御社の環境に合わせた<br>増設・移設など自由な設計</h5>
+                        </div>
+                        <p>お客様の通信頻度に合わせた通信キャリアとサービスの選定から、オフィスの規模に合わせた各種設備工事のご提案をさせて頂きます</p>
+                    </div>
+                    <!--end of feature-->
+                </div>
+                <div class="col-sm-4 text-center">
+                    <div class="feature">
+                        <div class="text-center">
+                            <i class="ti-heart icon-lg mb40 mb-xs-24 inline-block color-primary"></i>
+                            <h5 class="uppercase">安心のサポート対応<br>丁寧なアフターサービス</h5>
+                        </div>
+                        <p>三立では技術力に裏づけされた技術員が、導入からアフターフォロー（保守）まで、万全の体制でお客様をサポート致します</p>
+                    </div>
+                    <!--end of feature-->
                 </div>
             </div>
             <!--end of row-->
@@ -679,69 +740,95 @@
         <!--end of container-->
     </section>
 
-    <section class="bg-primary">
+{{--    <section class="pt180 pb180 pt-xs-80 pb-xs-80 bg-primary">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row">--}}
+{{--                <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">--}}
+{{--                    <h3 class="mb40 mb-xs-32">通信工事の専門業者.</h3>--}}
+{{--                    <p class="lead mb0 text-left">三立通信工業は、東京都全域をはじめ神奈川県、千葉県、群馬県、栃木県、茨城県、福島県などで通信工事から電気工事一式をお請けしている専門業者です。--}}
+{{--                        専門業者ならではの豊富な知識と確かな技術で、お客様の根本的な課題を把握し、通信、電機工事を通して解決します。通信、電気工事に関することならなんでもわたしたちにお任せください。</p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </section>--}}
+
+    <section class="pt0 pb0 pt-xs-80 bg-primary image-zoom">
         <div class="container">
             <div class="row">
-                <div class="col-md-4 col-md-offset-1 text-center text-left-xs col-sm-5">
-                    <h1 class="uppercase mb24 bold italic">We are behind you.</h1>
-                    <h5 class="uppercase italic fade-1-4">&ldquo;of the surfer,<br> by the surfer,<br> for the surfer&rdquo;</h5>
-                    <hr class="visible-xs">
+                <div class="col-md-5 col-sm-6 mt104 mt-sm-80 mt-xs-0 text-center-xs mb-xs-40">
+                    <h5 class="uppercase">
+                        <strong>オフィスもご家庭も。<br>LAN、電気工事一式をお請けしております。</strong>
+                    </h5>
+                    <p>三立通信工業は、東京都全域をはじめ神奈川県、千葉県、群馬県、栃木県、茨城県、福島県などで通信工事から電気工事一式をお請けしている専門業者です。 専門業者ならではの豊富な知識と確かな技術で、お客様の根本的な課題を把握し、通信、電機工事を通して解決します。通信、電気工事に関することならなんでもわたしたちにお任せください</p>
                 </div>
-                <div class="col-md-5 col-sm-7">
-                    <p>1960年代より日本のサーフィンの発展に寄与してきた中村一巳が、日本にアメリカのサーフィンとサーフボード作りを伝えた人物、タック・カワハラさんと手を結び、1976年に千葉・一宮で創業したサーフボードメーカーとサーフショップです。。それから40年以上に渡り、品質、性能、美しさにこだわり抜いたサーフボードを提供し、一宮の海辺から、多くのサーファーたちのサーフィンライフをサポートし続けております。</p>
-                    <p>つねに国内外のトッププロ達のリレーションにより、常に新しいボードデザインの開発に取り組んでおり、それらのデータを元に、一般ユーザーにも乗りやすい、サーファーにベストマッチな板を提供し続けています。</p>
-                    <p>オレンジの建物が目を引く海の目の前にあるCHP MAIN SHOW ROOMは、一宮に最初のサーフボードメーカ直営店として1976年に誕生しました。直営店ならではの豊富な品揃え、サーフボードやウェットのカスタムオーダーや、サーフボードのご相談は経験豊富なスタッフが対応します。体験サーフィン、サーフィンスクール、ステップアップ・レッスンもCHPが徹底サポート。サーフィンのこと、波情報、地域の情報などお気軽にお尋ねください。365日年中無休で毎朝早くからOPENして皆様のお越しお待ちしております。
-                    </p>
-{{--                    <p>--}}
-{{--                        Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur--}}
-{{--                    </p>--}}
-                    <img alt="signature" src="img/fitness1.png" class="image-small" />
+                <div class="col-md-4 col-md-push-2 col-sm-6">
+                    <img alt="Pic" src="img/parts/lan.png">
                 </div>
             </div>
             <!--end of row-->
         </div>
         <!--end of container-->
     </section>
-    <section class="image-square left">
+    <section class="image-square left bg-secondary">
         <div class="col-md-6 image">
             <div class="background-image-holder">
                 <img alt="image" class="background-image" src="img/fitness6.jpg" />
             </div>
         </div>
         <div class="col-md-6 col-md-offset-1 content overflow-hidden">
-            <div>
-                <h2 class="uppercase bold italic mb-1">SURFBOARD</h2>
-                <h4>ALL JAPAN QUALITY. ALL JAPAN MADE.</h4>
-                <p>グランドチャンプを3回獲得した河野正和や、過去にはワールドチャンピオンのマーチンポーターなど、国内外のトッププロ達のリレーションにより、常に新しいボードデザインの開発に取り組んでおり、それらのデータを元に、一般ユーザーにも乗りやすい、お客様にベストマッチな板を提供し続けています。</p>
-                <h6 class="uppercase mb8">Flexible booking times</h6>
-                <h6 class="uppercase mb8">Personal Dietary Advice</h6>
-                <h6 class="uppercase mb8">Multi-session discounts</h6>
-                <h6 class="uppercase mb8">Weekly progress tracking</h6>
-                <a class="btn btn-lg mt32 mb0" href="#">Book A Session Now</a>
+            <div class="text-white">
+                <h2 class="uppercase bold italic mb-1">IP電話・電話工事</h2>
+                <h4>電話工事.</h4>
+                <p>お客様の通信頻度に合わせた通信キャリアとサービスの選定から始まり、 気になるIP電話回線についての導入シミュレーションまで、 電話工事に関することなら一括サポート可能です。</p>
+                <h6 class="uppercase mb8">PBX・ビジネスホン新規導入</h6>
+                <h6 class="uppercase mb8">IP電話機の新規導入・ご相談</h6>
+                <h6 class="uppercase mb8">電話機の増設・移設のご相談</h6>
+                <a class="btn btn-lg  mt32 mb0" href="#">詳しくみる</a>
+
             </div>
+
         </div>
     </section>
     <section class="image-square right bg-secondary">
         <div class="col-md-6 image">
             <div class="background-image-holder">
-                <img alt="image" class="background-image" src="https://www.chp.surf/wp-content/uploads/2018/03/menu_showroom_sub-1_r1_c2.jpg" />
+                <img alt="image" class="background-image" src="img/cover/cover001.jpg" />
             </div>
         </div>
         <div class="col-md-6 content">
             <div class="text-white text-left-xs">
-                <h2 class="uppercase bold italic mb-1">MAIN SHOW ROOM</h2>
+                <h2 class="uppercase bold italic mb-1">LAN・ネットワーク構築</h2>
                 <h4>365 DAYS OPEN. 365 DYAS SURF.</h4>
-                <p>
-                    オレンジの建物が目を引く海の目の前にあるCHP MAIN SHOW ROOMは、一宮に最初のサーフボードメーカ直営店として1976年に誕生しました。直営店ならではの豊富な品揃え、サーフボードやウェットのカスタムオーダーや、サーフボードのご相談は経験豊富なスタッフが対応します。体験サーフィン、サーフィンスクール、ステップアップ・レッスンもCHPが徹底サポート。サーフィンのこと、波情報、地域の情報などお気軽にお尋ねください。365日年中無休で毎朝早くからOPENして皆様のお越しお待ちしております。
-
-                </p>
-                <h6 class="uppercase mb8">Come to any session</h6>
+                <p>オフィスのネットワーク回線や、第三者の出入りを制限するセキュリティの構築など、オフィスのインフラ構築・セキュリティ工事ならお任せ下さい。電話配線や電気工事と同時に施工ができますので、非常に見栄えが良く、かつ効率の良いインフラ構築が実現可能です。</p>
+                <h6 class="uppercase mb8">PBX・ビジネスホン新規導入</h6>
                 <h6 class="uppercase mb8">Multi-session discounts</h6>
                 <h6 class="uppercase mb8">Train with friends</h6>
                 <a class="btn btn-lg mt32 mb0" href="#">Book A Session Now</a>
             </div>
         </div>
     </section>
+    <section class="image-square left bg-secondary">
+        <div class="col-md-6 image">
+            <div class="background-image-holder">
+                <img alt="image" class="background-image" src="img/fitness6.jpg" />
+            </div>
+        </div>
+        <div class="col-md-6 col-md-offset-1 content overflow-hidden">
+            <div class="text-white">
+                <h2 class="uppercase bold italic mb-1">電話工事</h2>
+                <h4>電話工事.</h4>
+                <p>お客様の通信頻度に合わせた通信キャリアとサービスの選定から始まり、 気になるIP電話回線についての導入シミュレーションまで、 電話工事に関することなら一括サポート可能です。</p>
+
+                <h6 class="uppercase mb8">PBX・ビジネスホン新規導入</h6>
+                <h6 class="uppercase mb8">IP電話機の新規導入・ご相談</h6>
+                <h6 class="uppercase mb8">電話機の増設・移設のご相談</h6>
+                <a class="btn btn-lg  mt32 mb0" href="#">詳しくみる</a>
+
+            </div>
+
+        </div>
+    </section>
+
     <section>
         <div class="container">
             <div class="row mb80 mb-xs-40">
