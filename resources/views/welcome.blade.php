@@ -37,8 +37,8 @@
         <div class="nav-bar">
             <div class="module left">
                 <a href="index.html">
-                    <img class="logo logo-light" alt="Foundry" src="img/logo-light.png" />
-                    <img class="logo logo-dark" alt="Foundry" src="img/logo-dark.png" />
+{{--                    <img class="logo logo-light" alt="Foundry" src="img/logo-light.png" />--}}
+{{--                    <img class="logo logo-dark" alt="Foundry" src="img/logo-dark.png" />--}}
                 </a>
             </div>
             <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
@@ -80,17 +80,17 @@
                     </ul>
                 </div>
                 <!--end of menu module-->
-                <div class="module widget-handle search-widget-handle left">
-                    <div class="search">
-                        <i class="ti-search"></i>
-                        <span class="title">Search Site</span>
-                    </div>
-                    <div class="function">
-                        <form class="search-form">
-                            <input type="text" placeholder="Type Here" />
-                        </form>
-                    </div>
-                </div>
+{{--                <div class="module widget-handle search-widget-handle left">--}}
+{{--                    <div class="search">--}}
+{{--                        <i class="ti-search"></i>--}}
+{{--                        <span class="title">Search Site</span>--}}
+{{--                    </div>--}}
+{{--                    <div class="function">--}}
+{{--                        <form class="search-form">--}}
+{{--                            <input type="text" placeholder="Type Here" />--}}
+{{--                        </form>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 {{--                <div class="module widget-handle cart-widget-handle left">--}}
 {{--                    <div class="cart">--}}
 {{--                        <i class="ti-bag"></i>--}}
@@ -133,21 +133,21 @@
 {{--                        <!--end of widget-->--}}
 {{--                    </div>--}}
 {{--                </div>--}}
-                <div class="module widget-handle language left">
-                    <ul class="menu">
-                        <li class="has-dropdown">
-                            <a href="#">ENG</a>
-                            <ul>
-                                <li>
-                                    <a href="#">French</a>
-                                </li>
-                                <li>
-                                    <a href="#">Deutsch</a>
-                                </li>
-                            </ul>
-                        </li>
-                    </ul>
-                </div>
+{{--                <div class="module widget-handle language left">--}}
+{{--                    <ul class="menu">--}}
+{{--                        <li class="has-dropdown">--}}
+{{--                            <a href="#">ENG</a>--}}
+{{--                            <ul>--}}
+{{--                                <li>--}}
+{{--                                    <a href="#">French</a>--}}
+{{--                                </li>--}}
+{{--                                <li>--}}
+{{--                                    <a href="#">Deutsch</a>--}}
+{{--                                </li>--}}
+{{--                            </ul>--}}
+{{--                        </li>--}}
+{{--                    </ul>--}}
+{{--                </div>--}}
             </div>
             <!--end of module group-->
         </div>
@@ -595,7 +595,7 @@
             <div class="row mb64 mb-xs-32">
                 <div class="col-sm-6 col-sm-offset-3 text-center">
                     <h2 class="uppercase bold italic">
-                        <i class="ti-instagram">&nbsp;</i>bendobsonfitness</h2>
+                        <i class="ti-instagram">&nbsp;</i>SANRITSU</h2>
                     <p class="lead">
                         Follow me on Instagram for workout inspiration and shots from our awesome group fitness sessions.
                     </p>
