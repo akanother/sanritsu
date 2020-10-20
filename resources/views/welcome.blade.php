@@ -80,100 +80,12 @@
                     </ul>
                 </div>
                 <!--end of menu module-->
-{{--                <div class="module widget-handle search-widget-handle left">--}}
-{{--                    <div class="search">--}}
-{{--                        <i class="ti-search"></i>--}}
-{{--                        <span class="title">Search Site</span>--}}
-{{--                    </div>--}}
-{{--                    <div class="function">--}}
-{{--                        <form class="search-form">--}}
-{{--                            <input type="text" placeholder="Type Here" />--}}
-{{--                        </form>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--                <div class="module widget-handle cart-widget-handle left">--}}
-{{--                    <div class="cart">--}}
-{{--                        <i class="ti-bag"></i>--}}
-{{--                        <span class="label number">2</span>--}}
-{{--                        <span class="title">Shopping Cart</span>--}}
-{{--                    </div>--}}
-{{--                    <div class="function">--}}
-{{--                        <div class="widget">--}}
-{{--                            <h6 class="title">Shopping Cart</h6>--}}
-{{--                            <hr>--}}
-{{--                            <ul class="cart-overview">--}}
-{{--                                <li>--}}
-{{--                                    <a href="#">--}}
-{{--                                        <img alt="Product" src="img/shop-widget-1.png" />--}}
-{{--                                        <div class="description">--}}
-{{--                                            <span class="product-title">Canvas Backpack</span>--}}
-{{--                                            <span class="price number">$39.90</span>--}}
-{{--                                        </div>--}}
-{{--                                    </a>--}}
-{{--                                </li>--}}
-{{--                                <li>--}}
-{{--                                    <a href="#">--}}
-{{--                                        <img alt="Product" src="img/shop-widget-2.png" />--}}
-{{--                                        <div class="description">--}}
-{{--                                            <span class="product-title">Vintage Camera</span>--}}
-{{--                                            <span class="price number">$249.50</span>--}}
-{{--                                        </div>--}}
-{{--                                    </a>--}}
-{{--                                </li>--}}
-{{--                            </ul>--}}
-{{--                            <hr>--}}
-{{--                            <div class="cart-controls">--}}
-{{--                                <a class="btn btn-sm btn-filled" href="#">Checkout</a>--}}
-{{--                                <div class="list-inline pull-right">--}}
-{{--                                    <span class="cart-total">Total: </span>--}}
-{{--                                    <span class="number">$289.40</span>--}}
-{{--                                </div>--}}
-{{--                            </div>--}}
-{{--                        </div>--}}
-{{--                        <!--end of widget-->--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--                <div class="module widget-handle language left">--}}
-{{--                    <ul class="menu">--}}
-{{--                        <li class="has-dropdown">--}}
-{{--                            <a href="#">ENG</a>--}}
-{{--                            <ul>--}}
-{{--                                <li>--}}
-{{--                                    <a href="#">French</a>--}}
-{{--                                </li>--}}
-{{--                                <li>--}}
-{{--                                    <a href="#">Deutsch</a>--}}
-{{--                                </li>--}}
-{{--                            </ul>--}}
-{{--                        </li>--}}
-{{--                    </ul>--}}
-{{--                </div>--}}
             </div>
             <!--end of module group-->
         </div>
     </nav>
 </div>
 <div id="app" class="main-container">
-
-{{--    <section class="cover fullscreen parallax image-bg">--}}
-{{--        <div class="background-image-holder">--}}
-{{--            <img alt="image" class="background-image" src="img/cover/cover001.jpg" />--}}
-{{--        </div>--}}
-{{--        <div class="container v-align-transform">--}}
-{{--            <div class="row">--}}
-{{--                <div class="col-sm-12 text-center">--}}
-{{--                    <h1 class="mb0 uppercase bold italic">SANRITSU  </h1>--}}
-{{--                    <h5 class="uppercase mb32">素早く、正確に、安全に。高品質な通信工事を提供する 三立通信工業。</h5>--}}
-{{--                    <p class="lead mb0">--}}
-{{--                        &ldquo;Everyone deserves good health and happiness.--}}
-{{--                        <br class="hidden-sm" />My goal is to help people achieve both.&rdquo;--}}
-{{--                    </p>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--            <!--end of row-->--}}
-{{--        </div>--}}
-
-{{--    </section>--}}
 
     <section class="image-bg overlay pt240 pb240 pt-xs-180 pb-xs-180">
         <div class="background-image-holder">
@@ -236,18 +148,6 @@
         <!--end of container-->
     </section>
 
-{{--    <section class="pt180 pb180 pt-xs-80 pb-xs-80 bg-primary">--}}
-{{--        <div class="container">--}}
-{{--            <div class="row">--}}
-{{--                <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">--}}
-{{--                    <h3 class="mb40 mb-xs-32">通信工事の専門業者.</h3>--}}
-{{--                    <p class="lead mb0 text-left">三立通信工業は、東京都全域をはじめ神奈川県、千葉県、群馬県、栃木県、茨城県、福島県などで通信工事から電気工事一式をお請けしている専門業者です。--}}
-{{--                        専門業者ならではの豊富な知識と確かな技術で、お客様の根本的な課題を把握し、通信、電機工事を通して解決します。通信、電気工事に関することならなんでもわたしたちにお任せください。</p>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-{{--    </section>--}}
-
     <section class="pt0 pb0 pt-xs-80 bg-primary image-zoom">
         <div class="container">
             <div class="row">
@@ -294,8 +194,8 @@
         <div class="col-md-6 content">
             <div class="text-white text-left-xs">
                 <h2 class="uppercase bold italic mb-1">LAN・ネットワーク構築</h2>
-                <h4>365 DAYS OPEN. 365 DYAS SURF.</h4>
-                <p>オフィスのネットワーク回線や、第三者の出入りを制限するセキュリティの構築など、オフィスのインフラ構築・セキュリティ工事ならお任せ下さい。電話配線や電気工事と同時に施工ができますので、非常に見栄えが良く、かつ効率の良いインフラ構築が実現可能です。</p>
+                <h4>Network</h4>
+                <p>工場やオフィスのネットワーク回線や、第三者の出入りを制限するセキュリティの構築など、オフィスのインフラ構築・セキュリティ工事ならお任せ下さい。電話配線や電気工事と同時に施工ができますので、非常に見栄えが良く、かつ効率の良いインフラ構築が実現可能です。</p>
                 <h6 class="uppercase mb8">PBX・ビジネスホン新規導入</h6>
                 <h6 class="uppercase mb8">Multi-session discounts</h6>
                 <h6 class="uppercase mb8">Train with friends</h6>
